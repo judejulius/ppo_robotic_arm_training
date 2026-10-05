@@ -1,6 +1,6 @@
 # Fetch Push PPO
 
-Train a simulated Fetch robot arm to push a block onto a target, from scratch, with PPO on a CPU.
+Train a simulated Fetch robot arm to push a block onto a target, from scratch, with PPO on a GPU.
 
 ![Before and after training: the untrained arm misses the block; the trained arm pushes it onto the target](assets/before-after.gif)
 
@@ -8,7 +8,7 @@ Train a simulated Fetch robot arm to push a block onto a target, from scratch, w
 |---|---:|---:|
 | Success on 100 unseen test layouts | 10%* | **97%** (95% CI 91.5–99.0%) | 
 | Mean final block-to-target distance | 15.2 cm | **1.97 cm** |
-| Training time | | ~40 min on a laptop CPU (i9-13900HX, 10M steps) |
+| Training time | | ~40 min on a laptop CPU (i9-13900HX, 10M steps) GPU (RTX 4070ti 8gb) |
 
 <sub>*Untrained success is measured on the 20 validation layouts. Some starting layouts already have the block within 5 cm of the target.</sub>
 
