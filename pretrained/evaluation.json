@@ -1,0 +1,1020 @@
+{
+  "mean_reward": -2.9314441094136368,
+  "std_reward": 1.3246214371780007,
+  "episodes": 100,
+  "success_rate": 0.97,
+  "success_95ci": [
+    0.9154806357094724,
+    0.9897454759759611
+  ],
+  "mean_final_distance_cm": 1.9665458092093469,
+  "any_success_rate": 0.97,
+  "mean_approach_distance_cm": 4.969854764640331,
+  "mean_block_displacement_cm": 15.914053488373757,
+  "results": [
+    {
+      "seed": 400000,
+      "reward": -1.555868710146386,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.240369439125061,
+      "approach_distance_cm": 4.3547119945287704,
+      "block_displacement_cm": 9.142133712768555
+    },
+    {
+      "seed": 400001,
+      "reward": -1.7456686064724056,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.4576845169067383,
+      "approach_distance_cm": 4.64126281440258,
+      "block_displacement_cm": 11.465767860412598
+    },
+    {
+      "seed": 400002,
+      "reward": -2.354538763466726,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.4206573963165283,
+      "approach_distance_cm": 4.246712103486061,
+      "block_displacement_cm": 16.35735511779785
+    },
+    {
+      "seed": 400003,
+      "reward": -5.2450150585443085,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.3483266830444336,
+      "approach_distance_cm": 4.758504033088684,
+      "block_displacement_cm": 29.023664474487305
+    },
+    {
+      "seed": 400004,
+      "reward": -4.065181176572162,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1369497776031494,
+      "approach_distance_cm": 4.454227536916733,
+      "block_displacement_cm": 21.803421020507812
+    },
+    {
+      "seed": 400005,
+      "reward": -3.6871717947018583,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.9313163757324219,
+      "approach_distance_cm": 4.195994138717651,
+      "block_displacement_cm": 21.88673210144043
+    },
+    {
+      "seed": 400006,
+      "reward": -2.3371412066336834,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.2723090648651123,
+      "approach_distance_cm": 5.051411688327789,
+      "block_displacement_cm": 22.668502807617188
+    },
+    {
+      "seed": 400007,
+      "reward": -1.7865179473612212,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.2361775636672974,
+      "approach_distance_cm": 4.7429826110601425,
+      "block_displacement_cm": 10.1076078414917
+    },
+    {
+      "seed": 400008,
+      "reward": -2.0284495290026556,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.960279941558838,
+      "approach_distance_cm": 4.439399763941765,
+      "block_displacement_cm": 13.173380851745605
+    },
+    {
+      "seed": 400009,
+      "reward": -3.3521779622109626,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.6629295349121094,
+      "approach_distance_cm": 4.4814810156822205,
+      "block_displacement_cm": 20.32444953918457
+    },
+    {
+      "seed": 400010,
+      "reward": -1.0406658611074175,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.0032731294631958,
+      "approach_distance_cm": 5.310506373643875,
+      "block_displacement_cm": 4.140142917633057
+    },
+    {
+      "seed": 400011,
+      "reward": -2.799646621394113,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.8759763240814209,
+      "approach_distance_cm": 4.6769049018621445,
+      "block_displacement_cm": 19.13404083251953
+    },
+    {
+      "seed": 400012,
+      "reward": -2.2026861163111806,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.5525848865509033,
+      "approach_distance_cm": 5.1925793290138245,
+      "block_displacement_cm": 14.500152587890625
+    },
+    {
+      "seed": 400013,
+      "reward": -2.8813530098275844,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.7677502632141113,
+      "approach_distance_cm": 4.51461598277092,
+      "block_displacement_cm": 15.634576797485352
+    },
+    {
+      "seed": 400014,
+      "reward": -5.134960612048308,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.995142936706543,
+      "approach_distance_cm": 5.472172051668167,
+      "block_displacement_cm": 26.26988983154297
+    },
+    {
+      "seed": 400015,
+      "reward": -5.527381236951425,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.881890058517456,
+      "approach_distance_cm": 4.365651682019234,
+      "block_displacement_cm": 20.639171600341797
+    },
+    {
+      "seed": 400016,
+      "reward": -2.8187197511683535,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.0013043880462646,
+      "approach_distance_cm": 4.344769194722176,
+      "block_displacement_cm": 16.544218063354492
+    },
+    {
+      "seed": 400017,
+      "reward": -3.1133132899469573,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.9277575016021729,
+      "approach_distance_cm": 4.711282625794411,
+      "block_displacement_cm": 20.507522583007812
+    },
+    {
+      "seed": 400018,
+      "reward": -2.405570807971021,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1176010370254517,
+      "approach_distance_cm": 4.962876811623573,
+      "block_displacement_cm": 17.80266761779785
+    },
+    {
+      "seed": 400019,
+      "reward": -2.359055784551173,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.045063018798828,
+      "approach_distance_cm": 4.965012148022652,
+      "block_displacement_cm": 11.919921875
+    },
+    {
+      "seed": 400020,
+      "reward": -2.8317139285622748,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.3273926973342896,
+      "approach_distance_cm": 5.0185322761535645,
+      "block_displacement_cm": 19.948408126831055
+    },
+    {
+      "seed": 400021,
+      "reward": -1.1241849455730013,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.46927061676979065,
+      "approach_distance_cm": 5.075494199991226,
+      "block_displacement_cm": 11.927443504333496
+    },
+    {
+      "seed": 400022,
+      "reward": -2.3717311707550026,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.5519767999649048,
+      "approach_distance_cm": 6.047879531979561,
+      "block_displacement_cm": 15.351658821105957
+    },
+    {
+      "seed": 400023,
+      "reward": -4.317921842518166,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.1583032608032227,
+      "approach_distance_cm": 4.463055357336998,
+      "block_displacement_cm": 24.205923080444336
+    },
+    {
+      "seed": 400024,
+      "reward": -2.4172355152649656,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.6730408668518066,
+      "approach_distance_cm": 5.375635996460915,
+      "block_displacement_cm": 11.053760528564453
+    },
+    {
+      "seed": 400025,
+      "reward": -4.390280289326507,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.198054552078247,
+      "approach_distance_cm": 4.431779310107231,
+      "block_displacement_cm": 21.86516761779785
+    },
+    {
+      "seed": 400026,
+      "reward": -1.0875266433871547,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.4873353242874146,
+      "approach_distance_cm": 5.238567292690277,
+      "block_displacement_cm": 7.888823509216309
+    },
+    {
+      "seed": 400027,
+      "reward": -4.534350705650111,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.691352128982544,
+      "approach_distance_cm": 4.913613200187683,
+      "block_displacement_cm": 26.04411506652832
+    },
+    {
+      "seed": 400028,
+      "reward": -2.01858489378784,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.1700124740600586,
+      "approach_distance_cm": 4.51289527118206,
+      "block_displacement_cm": 10.425958633422852
+    },
+    {
+      "seed": 400029,
+      "reward": -2.7707370357053374,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.6602001190185547,
+      "approach_distance_cm": 4.713454842567444,
+      "block_displacement_cm": 11.877967834472656
+    },
+    {
+      "seed": 400030,
+      "reward": -2.2407876158289137,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.7406420111656189,
+      "approach_distance_cm": 4.216186702251434,
+      "block_displacement_cm": 15.66152572631836
+    },
+    {
+      "seed": 400031,
+      "reward": -2.3238509301852566,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.9173134565353394,
+      "approach_distance_cm": 4.470371827483177,
+      "block_displacement_cm": 15.651816368103027
+    },
+    {
+      "seed": 400032,
+      "reward": -4.164745911614649,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 4.481938362121582,
+      "approach_distance_cm": 6.571218371391296,
+      "block_displacement_cm": 25.518850326538086
+    },
+    {
+      "seed": 400033,
+      "reward": -2.5776930874013275,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.9720988273620605,
+      "approach_distance_cm": 4.985008388757706,
+      "block_displacement_cm": 15.906682968139648
+    },
+    {
+      "seed": 400034,
+      "reward": -2.674725686044161,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.3269364833831787,
+      "approach_distance_cm": 4.8279087990522385,
+      "block_displacement_cm": 17.965679168701172
+    },
+    {
+      "seed": 400035,
+      "reward": -4.05398861227302,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.598432183265686,
+      "approach_distance_cm": 4.263476654887199,
+      "block_displacement_cm": 27.908035278320312
+    },
+    {
+      "seed": 400036,
+      "reward": -1.5246120132578949,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.7828229665756226,
+      "approach_distance_cm": 4.029712453484535,
+      "block_displacement_cm": 4.685489654541016
+    },
+    {
+      "seed": 400037,
+      "reward": -2.4745689472433976,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1244831085205078,
+      "approach_distance_cm": 4.526159912347794,
+      "block_displacement_cm": 8.585948944091797
+    },
+    {
+      "seed": 400038,
+      "reward": -3.817109605089069,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.687845230102539,
+      "approach_distance_cm": 4.305801913142204,
+      "block_displacement_cm": 23.063560485839844
+    },
+    {
+      "seed": 400039,
+      "reward": -1.962222492962473,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 3.359164237976074,
+      "approach_distance_cm": 5.200427770614624,
+      "block_displacement_cm": 14.395123481750488
+    },
+    {
+      "seed": 400040,
+      "reward": -2.3853870458156607,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1355849504470825,
+      "approach_distance_cm": 4.815266653895378,
+      "block_displacement_cm": 9.433866500854492
+    },
+    {
+      "seed": 400041,
+      "reward": -3.5780181759503584,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.870979070663452,
+      "approach_distance_cm": 4.495799541473389,
+      "block_displacement_cm": 21.80276870727539
+    },
+    {
+      "seed": 400042,
+      "reward": -2.738414956299116,
+      "length": 50,
+      "success": false,
+      "any_success": false,
+      "final_distance_cm": 5.055518627166748,
+      "approach_distance_cm": 5.319096148014069,
+      "block_displacement_cm": 3.453407049179077
+    },
+    {
+      "seed": 400043,
+      "reward": -4.203806468688601,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 3.015876054763794,
+      "approach_distance_cm": 5.694783478975296,
+      "block_displacement_cm": 26.803001403808594
+    },
+    {
+      "seed": 400044,
+      "reward": -6.782825853796965,
+      "length": 50,
+      "success": false,
+      "any_success": false,
+      "final_distance_cm": 5.4344635009765625,
+      "approach_distance_cm": 4.71162237226963,
+      "block_displacement_cm": 32.604122161865234
+    },
+    {
+      "seed": 400045,
+      "reward": -1.9399918130665557,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.18667007982730865,
+      "approach_distance_cm": 4.507044702768326,
+      "block_displacement_cm": 9.634941101074219
+    },
+    {
+      "seed": 400046,
+      "reward": -2.5943125257908313,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.047422409057617,
+      "approach_distance_cm": 4.45442907512188,
+      "block_displacement_cm": 17.256593704223633
+    },
+    {
+      "seed": 400047,
+      "reward": -0.8658531177257249,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.7559594511985779,
+      "approach_distance_cm": 5.4810382425785065,
+      "block_displacement_cm": 3.707075595855713
+    },
+    {
+      "seed": 400048,
+      "reward": -1.6408619766755286,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1541727781295776,
+      "approach_distance_cm": 4.724931716918945,
+      "block_displacement_cm": 11.6951904296875
+    },
+    {
+      "seed": 400049,
+      "reward": -3.3348904902511056,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.0646395683288574,
+      "approach_distance_cm": 4.4568803161382675,
+      "block_displacement_cm": 24.221515655517578
+    },
+    {
+      "seed": 400050,
+      "reward": -4.9284310913234375,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.0759520530700684,
+      "approach_distance_cm": 5.365942046046257,
+      "block_displacement_cm": 25.874021530151367
+    },
+    {
+      "seed": 400051,
+      "reward": -4.434926862529161,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.2356693744659424,
+      "approach_distance_cm": 4.4121988117694855,
+      "block_displacement_cm": 24.288536071777344
+    },
+    {
+      "seed": 400052,
+      "reward": -3.3848311428148175,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.6783835887908936,
+      "approach_distance_cm": 4.161396995186806,
+      "block_displacement_cm": 20.81352424621582
+    },
+    {
+      "seed": 400053,
+      "reward": -1.4698873831817194,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.2168326377868652,
+      "approach_distance_cm": 4.35117706656456,
+      "block_displacement_cm": 5.397341728210449
+    },
+    {
+      "seed": 400054,
+      "reward": -2.327527173240317,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.464463710784912,
+      "approach_distance_cm": 5.408924072980881,
+      "block_displacement_cm": 7.927889347076416
+    },
+    {
+      "seed": 400055,
+      "reward": -0.8472943910773634,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1959452629089355,
+      "approach_distance_cm": 4.250778257846832,
+      "block_displacement_cm": 3.827359437942505
+    },
+    {
+      "seed": 400056,
+      "reward": -3.923035654263611,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.332576870918274,
+      "approach_distance_cm": 7.051810622215271,
+      "block_displacement_cm": 16.699176788330078
+    },
+    {
+      "seed": 400057,
+      "reward": -4.116207735844115,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.8285088539123535,
+      "approach_distance_cm": 4.864048585295677,
+      "block_displacement_cm": 22.850988388061523
+    },
+    {
+      "seed": 400058,
+      "reward": -2.7745340620583905,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.8925843238830566,
+      "approach_distance_cm": 4.379794746637344,
+      "block_displacement_cm": 13.2719144821167
+    },
+    {
+      "seed": 400059,
+      "reward": -4.939379883405068,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.0054280757904053,
+      "approach_distance_cm": 4.509587213397026,
+      "block_displacement_cm": 25.49199104309082
+    },
+    {
+      "seed": 400060,
+      "reward": -3.5729891609396787,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.3813258409500122,
+      "approach_distance_cm": 4.724768549203873,
+      "block_displacement_cm": 21.44721221923828
+    },
+    {
+      "seed": 400061,
+      "reward": -1.538678621346141,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.8014543652534485,
+      "approach_distance_cm": 4.517717659473419,
+      "block_displacement_cm": 11.338918685913086
+    },
+    {
+      "seed": 400062,
+      "reward": -2.525866112794659,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 3.2346255779266357,
+      "approach_distance_cm": 7.197157293558121,
+      "block_displacement_cm": 8.188667297363281
+    },
+    {
+      "seed": 400063,
+      "reward": -4.770390285119902,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.6465544104576111,
+      "approach_distance_cm": 4.600508883595467,
+      "block_displacement_cm": 20.966270446777344
+    },
+    {
+      "seed": 400064,
+      "reward": -1.7460193123417194,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.9628623723983765,
+      "approach_distance_cm": 4.338022321462631,
+      "block_displacement_cm": 7.421545028686523
+    },
+    {
+      "seed": 400065,
+      "reward": -3.102073789404313,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.9033476114273071,
+      "approach_distance_cm": 5.549735575914383,
+      "block_displacement_cm": 20.429290771484375
+    },
+    {
+      "seed": 400066,
+      "reward": -0.925484987322761,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.5570884943008423,
+      "approach_distance_cm": 4.423616454005241,
+      "block_displacement_cm": 3.726287841796875
+    },
+    {
+      "seed": 400067,
+      "reward": -2.7212588980757024,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1146252155303955,
+      "approach_distance_cm": 4.992688074707985,
+      "block_displacement_cm": 19.7342472076416
+    },
+    {
+      "seed": 400068,
+      "reward": -2.3778825532330865,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.049038052558899,
+      "approach_distance_cm": 4.4218722730875015,
+      "block_displacement_cm": 16.95566177368164
+    },
+    {
+      "seed": 400069,
+      "reward": -2.5345037192106927,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.003056526184082,
+      "approach_distance_cm": 4.999100789427757,
+      "block_displacement_cm": 17.333093643188477
+    },
+    {
+      "seed": 400070,
+      "reward": -4.077682524035561,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.2280759811401367,
+      "approach_distance_cm": 4.455837979912758,
+      "block_displacement_cm": 23.53644371032715
+    },
+    {
+      "seed": 400071,
+      "reward": -2.2150347023722317,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 4.199081897735596,
+      "approach_distance_cm": 5.621805787086487,
+      "block_displacement_cm": 12.5291166305542
+    },
+    {
+      "seed": 400072,
+      "reward": -3.6299950500927194,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.9111959338188171,
+      "approach_distance_cm": 4.1640255600214005,
+      "block_displacement_cm": 18.47686004638672
+    },
+    {
+      "seed": 400073,
+      "reward": -1.6127783142145873,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.6605992913246155,
+      "approach_distance_cm": 4.818539321422577,
+      "block_displacement_cm": 11.921820640563965
+    },
+    {
+      "seed": 400074,
+      "reward": -1.1502068085273363,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.5198267102241516,
+      "approach_distance_cm": 4.2843446135520935,
+      "block_displacement_cm": 6.093417644500732
+    },
+    {
+      "seed": 400075,
+      "reward": -2.965014267231408,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.0753872394561768,
+      "approach_distance_cm": 4.584858193993568,
+      "block_displacement_cm": 11.32565689086914
+    },
+    {
+      "seed": 400076,
+      "reward": -3.5328444681282294,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.6875720024108887,
+      "approach_distance_cm": 4.157771915197372,
+      "block_displacement_cm": 22.240476608276367
+    },
+    {
+      "seed": 400077,
+      "reward": -3.087582741423876,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.4125523567199707,
+      "approach_distance_cm": 4.647804424166679,
+      "block_displacement_cm": 17.83142852783203
+    },
+    {
+      "seed": 400078,
+      "reward": -6.494872247334243,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 4.625034809112549,
+      "approach_distance_cm": 4.651729762554169,
+      "block_displacement_cm": 26.0050048828125
+    },
+    {
+      "seed": 400079,
+      "reward": -1.3738366298090532,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.205233097076416,
+      "approach_distance_cm": 4.554002732038498,
+      "block_displacement_cm": 7.688106536865234
+    },
+    {
+      "seed": 400080,
+      "reward": -3.156590527756554,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 3.8858187198638916,
+      "approach_distance_cm": 7.968287169933319,
+      "block_displacement_cm": 25.818025588989258
+    },
+    {
+      "seed": 400081,
+      "reward": -3.911120916561728,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.7474615573883057,
+      "approach_distance_cm": 4.8211462795734406,
+      "block_displacement_cm": 18.91962242126465
+    },
+    {
+      "seed": 400082,
+      "reward": -3.598304213633636,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.8795416951179504,
+      "approach_distance_cm": 4.5071568340063095,
+      "block_displacement_cm": 24.265506744384766
+    },
+    {
+      "seed": 400083,
+      "reward": -2.5953587949771144,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.7653692960739136,
+      "approach_distance_cm": 4.186348244547844,
+      "block_displacement_cm": 9.272854804992676
+    },
+    {
+      "seed": 400084,
+      "reward": -4.937593287409637,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1598451137542725,
+      "approach_distance_cm": 4.518599808216095,
+      "block_displacement_cm": 28.057601928710938
+    },
+    {
+      "seed": 400085,
+      "reward": -4.499900409302613,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.4596385657787323,
+      "approach_distance_cm": 4.191078618168831,
+      "block_displacement_cm": 24.900541305541992
+    },
+    {
+      "seed": 400086,
+      "reward": -2.210833003731536,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.721829414367676,
+      "approach_distance_cm": 4.198411852121353,
+      "block_displacement_cm": 9.917421340942383
+    },
+    {
+      "seed": 400087,
+      "reward": -0.800636673012341,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.18380704522132874,
+      "approach_distance_cm": 4.166554659605026,
+      "block_displacement_cm": 6.522111415863037
+    },
+    {
+      "seed": 400088,
+      "reward": -2.60246446597463,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.199979782104492,
+      "approach_distance_cm": 4.995078593492508,
+      "block_displacement_cm": 13.364468574523926
+    },
+    {
+      "seed": 400089,
+      "reward": -5.061076002669532,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 4.349976539611816,
+      "approach_distance_cm": 8.457715064287186,
+      "block_displacement_cm": 21.879615783691406
+    },
+    {
+      "seed": 400090,
+      "reward": -2.790883733172661,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.1978271007537842,
+      "approach_distance_cm": 4.704764112830162,
+      "block_displacement_cm": 11.346494674682617
+    },
+    {
+      "seed": 400091,
+      "reward": -1.8790212166618188,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.611393690109253,
+      "approach_distance_cm": 5.547330528497696,
+      "block_displacement_cm": 5.125138759613037
+    },
+    {
+      "seed": 400092,
+      "reward": -1.245489046525648,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.5394230484962463,
+      "approach_distance_cm": 5.372375622391701,
+      "block_displacement_cm": 5.612094402313232
+    },
+    {
+      "seed": 400093,
+      "reward": -1.5014925127878165,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.8945810794830322,
+      "approach_distance_cm": 5.903637036681175,
+      "block_displacement_cm": 0.6113494038581848
+    },
+    {
+      "seed": 400094,
+      "reward": -6.8955902483163225,
+      "length": 50,
+      "success": false,
+      "any_success": false,
+      "final_distance_cm": 17.878835678100586,
+      "approach_distance_cm": 14.272858202457428,
+      "block_displacement_cm": 12.427928924560547
+    },
+    {
+      "seed": 400095,
+      "reward": -1.080019331007424,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 1.4388748407363892,
+      "approach_distance_cm": 4.764258116483688,
+      "block_displacement_cm": 2.543370485305786
+    },
+    {
+      "seed": 400096,
+      "reward": -2.7482845954012665,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 0.11301587522029877,
+      "approach_distance_cm": 4.896946623921394,
+      "block_displacement_cm": 21.41621971130371
+    },
+    {
+      "seed": 400097,
+      "reward": -3.6852029850879355,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 3.7178032398223877,
+      "approach_distance_cm": 4.175367951393127,
+      "block_displacement_cm": 18.076480865478516
+    },
+    {
+      "seed": 400098,
+      "reward": -2.6059389727664373,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 2.6394755840301514,
+      "approach_distance_cm": 4.988276585936546,
+      "block_displacement_cm": 18.296524047851562
+    },
+    {
+      "seed": 400099,
+      "reward": -2.0535412890302256,
+      "length": 50,
+      "success": true,
+      "any_success": true,
+      "final_distance_cm": 3.229954481124878,
+      "approach_distance_cm": 6.156586855649948,
+      "block_displacement_cm": 7.809966087341309
+    }
+  ],
+  "target_achieved": true,
+  "selected_steps": 10000384,
+  "trained_steps": 10000384,
+  "selection": "validation final-step success, then target distance; final seeds used once"
+}
